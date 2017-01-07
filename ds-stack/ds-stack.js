@@ -11,7 +11,7 @@ methods.add=function(value){
 }
 
 methods.remove=function(){
-	if(this.counter>0){
-		this._storage.pop();
-	}
+		var del=this._storage[0];
+		this._storage.shift();
+		return del;
 }
