@@ -3,3 +3,9 @@
 
 ## Queue vs. Stack
 Please write your explanation below.
+
+stack ==> first in last out , because everytime we pop or delete the last item in it.
+		example:
+
+queue ==> first in last out , because everytime we pop or delete the first item we add.
+		examaple:
