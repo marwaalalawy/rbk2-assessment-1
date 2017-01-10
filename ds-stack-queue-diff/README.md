@@ -6,6 +6,7 @@ Please write your explanation below.
 
 stack ==> last in first out , because everytime we pop or delete the last item in it.
 		example: when to get things in reverse order
+		just likea stack of plates ;
 
 queue ==> first in first out , because everytime we pop or delete the first item we add
-		examaple: line or when to get things in order
+		examaple: line or when to get things in order , just like line of people 

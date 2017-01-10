@@ -7,7 +7,7 @@ var Stack = function() {
 var methods={};
 
 methods.add=function(value){
-	this._storage.push(value);
+	this._storage.unshift(value);
 }
 
 methods.remove=function(){
